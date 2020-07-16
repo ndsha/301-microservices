@@ -1,0 +1,5 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MT.OnlineRestaurant.OrderAPI
+--content-root=C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI
+--file=

@@ -1,0 +1,12 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.runtimeconfig.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLAyer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.genruntimeconfig.cache

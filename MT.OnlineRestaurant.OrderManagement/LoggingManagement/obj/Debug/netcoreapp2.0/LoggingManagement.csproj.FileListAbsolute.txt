@@ -1,0 +1,12 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\bin\Debug\netcoreapp2.0\LoggingManagement.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\bin\Debug\netcoreapp2.0\LoggingManagement.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\bin\Debug\netcoreapp2.0\LoggingManagement.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.csproj.CopyComplete
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.OrderManagement\LoggingManagement\obj\Debug\netcoreapp2.0\LoggingManagement.pdb

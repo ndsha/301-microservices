@@ -1,0 +1,12 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.runtimeconfig.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.Logging.genruntimeconfig.cache

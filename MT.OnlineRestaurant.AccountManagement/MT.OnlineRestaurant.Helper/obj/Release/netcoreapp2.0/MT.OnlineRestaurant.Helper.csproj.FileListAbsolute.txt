@@ -1,0 +1,9 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Release\netcoreapp2.0\MT.OnlineRestaurant.Helper.pdb

@@ -1,0 +1,15 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.runtimeconfig.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Release\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.csproj.CopyComplete
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Release\netcoreapp2.0\MT.OnlineRestuarant.DataLayer.genruntimeconfig.cache

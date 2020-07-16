@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jtYlcrBRoPvJXFzSwGCB41zXWnnkDMTnvS9zwe7JNXKcLg5Z3FXqh9h/QX9lsxLyAT+xq1zZqZtzgfxEt0JmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\301-microservices-base-master\\MT.OnlineRestaurant.CustomerManagement\\MT.OnlineRestaurant.UT\\MT.OnlineRestaurant.UT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MT.OnlineRestaurant.OrderAPI</name>
+    </assembly>
+    <members>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController">
+            <summary>
+            Food ordering controller
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController.#ctor(MT.OnlineRestaurant.BusinessLayer.interfaces.IPlaceOrderActions,LoggingManagement.ILogService)">
+            <summary>
+            Inject buisiness layer dependency
+            </summary>
+            <param name="placeOrderActions">Instance of this interface is injected in startup</param>
+            <param name="logService"></param>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController.Post(MT.OnlineRestaurant.BusinessEntities.OrderEntity)">
+            <summary>
+            POST api/OrderFood
+            To order food
+            </summary>
+            <param name="orderEntity">Order entity</param>
+            <returns>Status of order</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController.Delete(System.Int32)">
+            <summary>
+            DELETE api/CancelOrder
+            Cancel the order
+            </summary>
+            <param name="id">Order id</param>
+            <returns>Status of order</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController.Reports(System.Int32)">
+            <summary>
+            View Reports
+            </summary>
+            <param name="customerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.OrderFoodController.GetCartDetails(System.Int32,System.Int32,System.Int32,System.Decimal)">
+            <summary>
+            GetCartDetails
+            </summary>
+            <param name="restaurantId"></param>
+            <param name="menuId"></param>
+            <param name="quantity"></param>
+            <param name="price"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.Controllers.PaymentController">
+            <summary>
+            Payment controller
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.PaymentController.#ctor(MT.OnlineRestaurant.BusinessLayer.interfaces.IPaymentActions)">
+            <summary>
+            Inject buisiness layer dependency
+            </summary>
+            <param name="paymentActions"></param>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.PaymentController.MakePayment(MT.OnlineRestaurant.BusinessEntities.PaymentEntity)">
+            <summary>
+            Make payments for orders
+            </summary>
+            <param name="paymentEntity">Payment details</param>
+            <returns>Payment status</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Controllers.PaymentController.UpdatePaymentAndOrderStatus(MT.OnlineRestaurant.BusinessEntities.UpdatePaymentEntity)">
+            <summary>
+            Update payment status after retrieving status from payment gateway plugin
+            </summary>
+            <param name="paymentEntity">Payment details</param>
+            <returns>Updated payment status and order status</returns>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderEntityValidator">
+            <summary>
+            Food order model validator
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderEntityValidator.#ctor(System.Int32,System.String,MT.OnlineRestaurant.BusinessLayer.interfaces.IPlaceOrderActions)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderEntityValidator.BeAValidRestaurant(MT.OnlineRestaurant.BusinessEntities.OrderEntity,System.Int32,System.String)">
+            <summary>
+            Make a service call to fetch all restaurants and validate between them
+            </summary>
+            <param name="orderEntity">OrderEntity</param>
+            <param name="UserId">UserId</param>
+            <param name="UserToken">UserToken</param>
+            <returns>Boolean whether specified restaurant is valid or invalid</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderEntityValidator.BeAValidItemOrder(MT.OnlineRestaurant.BusinessEntities.OrderEntity,System.Int32,System.String)">
+            <summary>
+            Make a service call to check for Item availability
+            </summary>
+            <param name="orderEntity">OrderEntity</param>
+            <param name="UserId">UserId</param>
+            <param name="UserToken">UserToken</param>
+            <returns>Boolean whether specified Order is valid or invalid</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderEntityValidator.BeAValidCustomer(System.Int32)">
+            <summary>
+            Make a service call to fetch all valid customers and validate
+            </summary>
+            <param name="CustomerId">Customer Id</param>
+            <returns>Boolean whether specified customer is valid or invalid</returns>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderMenuValidator">
+            <summary>
+            Food menu validator
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderMenuValidator.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderMenuValidator.BeAValidMenu(System.Int32)">
+            <summary>
+            Make a service call to fetch all menus and validate
+            </summary>
+            <param name="MenuId">Menu Id</param>
+            <returns>Boolean whether specified menu is valid or invalid</returns>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.OrderMenuValidator.BeAValidMenuPrice(System.Decimal)">
+            <summary>
+            Make a service call to fetch all menus prices and validate
+            </summary>
+            <param name="Price">Price</param>
+            <returns>Boolean whether specified price for the menu is valid or invalid</returns>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.ModelValidators.PaymentEntityValidator">
+            <summary>
+            Payment entity validator
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.PaymentEntityValidator.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.PaymentEntityValidator.BeAValidOrder(System.Int32)">
+            <summary>
+            Make a service call to fetch all orders and validate between them
+            </summary>
+            <param name="OrderId">Order Id</param>
+            <returns>Boolean whether specified order is valid or invalid</returns>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.ModelValidators.UpdatePaymentEntityValidator">
+            <summary>
+            Update payment entity validator
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.ModelValidators.UpdatePaymentEntityValidator.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="T:MT.OnlineRestaurant.OrderAPI.Startup">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Startup.#ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            Startup constructor
+            </summary>
+            <param name="env"></param>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:MT.OnlineRestaurant.OrderAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

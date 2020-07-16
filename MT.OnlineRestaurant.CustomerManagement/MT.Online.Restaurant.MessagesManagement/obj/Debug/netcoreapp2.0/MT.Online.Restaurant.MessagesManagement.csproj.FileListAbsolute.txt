@@ -1,0 +1,16 @@
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.deps.json
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.csproj.CopyComplete
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.dll
+C:\Users\vmadmin\Desktop\301-microservices-base-master\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp2.0\MT.Online.Restaurant.MessagesManagement.pdb
